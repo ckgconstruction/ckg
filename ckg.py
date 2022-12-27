@@ -192,4 +192,4 @@ if __name__ == '__main__':
     logger.addHandler(logging.FileHandler(main_args.log_path, 'w'))
     main(main_args)
 
-# Here are the codes of the main function of the paper "Constrained Knowledge Graph Construction with Interaction-Aware Network" for reference. The remaining codes and the new CTEB dataset will be made public after the paper is accepted.
+# Here are the codes of the main function of the paper "Constrained Tuple Extraction with Interaction-Aware Network" for reference. The remaining codes and the new CTEB dataset will be made public after the paper is accepted.
