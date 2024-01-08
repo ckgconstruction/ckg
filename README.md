@@ -25,13 +25,18 @@ main.py --epochs 200 --mh_dropout 0.2 --arg_clf_dropout 0.2 --batch_size 90 --le
 
 ## Citation
 
-If you are using MINER for your work, please kindly cite our paper:
+If you find this repo helpful, please kindly cite the following paper:
 
 ```latex
 @inproceedings{xue2023cte,
-  title={Constrained Tuple Extraction with Interaction-Aware Network},
-  author={Xiaojun Xue and Chunxia Zhang and Tianxiang Xu and Zhendong Niu},
-  booktitle={Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics},
-  year={2023}
+  author       = {Xiaojun Xue and
+                  Chunxia Zhang and
+                  Tianxiang Xu and
+                  Zhendong Niu},
+  title        = {Constrained Tuple Extraction with Interaction-Aware Network},
+  booktitle    = {{ACL} {(1)}},
+  pages        = {11430--11444},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2023}
 }
 ```
